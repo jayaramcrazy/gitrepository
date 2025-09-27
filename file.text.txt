@@ -1,1 +1,2 @@
-This is the local repo, there will be some of the flows in the area
+This is the local repo, there will be some of the flows in the area.
+A test is sent.
